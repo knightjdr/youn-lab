@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: '/youn-lan',
+  pathPrefix: '/youn-lab',
   siteMetadata: {
     author: 'Ji-Young Youn',
     description: 'We study how cells deal with stress using proteomics tools',
-    siteUrl: 'https://knightjdr.github.io/youn-lan',
+    siteUrl: 'https://knightjdr.github.io/youn-lab',
     title: 'Youn laboratory',
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
@@ -52,8 +52,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'youn-lan',
-        short_name: 'scientist',
+        name: 'youn-lab',
+        short_name: 'youn-lab',
         start_url: '/',
         background_color: '#3d8183',
         theme_color: '#3d8183',

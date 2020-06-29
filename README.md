@@ -1,8 +1,6 @@
-# gatsby-starter-scientist
+# Youn lab website
 
-This is a website template built with Gatsby for a typical scientist or laboratory profile/portfolio site.
-
-[Demo](https://knightjdr.github.io/gatsby-start-scientist)
+[Live site](https://knightjdr.github.io/youn-lab)
 
 ## Setup
 
@@ -12,23 +10,6 @@ This is a website template built with Gatsby for a typical scientist or laborato
 * [git](https://git-scm.com/downloads)
 * [GitHub account](https://github.com/)
 * code editor, e.g [VS Code](https://code.visualstudio.com/)
-
-### Project creation
-
-1. Fork this project on GitHub by navigating to the project page `https://github.com/knightjdr/gatsby-starter-scientist` and clicking the `Fork` button in the upper right corner.
-
-2. (Optional) Rename the repository from the `Settings` menu. For example to `yourname-lab`.
-
-3. Clone repository from command line. If you changed the repository name in step 2, be sure to update the url. This will create a folder on your machine in the current directory with the project's code.
-```
-git clone https://github.com/[your-user-name]/gatsby-starter-scientist.git
-```
-
-4. Move into project directory and install dependencies.
-```
-cd gatsby-starter-scientist
-npm install
-```
 
 ## Development server
 
@@ -160,12 +141,3 @@ A custom URL that you purchased can be configured for the site by following the 
 ## Troubleshooting
 
 If you run into issues with images not displaying correctly in the development server, try running the command `npm run clean` and restarting the development server.
-
-## Credits
-
-* Vector cartoons are by [Lukasz Adam](https://lukaszadam.com/)
-* Icons are from the free repository at [FontAwesome](https://fontawesome.com/)
-* Hero image is courtesy of [Ramón Salinero on Unsplash](https://unsplash.com/photos/vEE00Hx5d0Q).
-* Wooden robot image is courtesy of [Kaboompics.com from Pexels](https://www.pexels.com/photo/wooden-robot-6069/)
-* Hourglass image is courtesy of [Aron Visuals on Unsplash](https://unsplash.com/photos/BXOXnQ26B7o)
-* Robot army image is courtesy of [Mina FC on Unsplash](https://unsplash.com/photos/3QKsG0fDrC8)

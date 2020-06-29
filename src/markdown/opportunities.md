@@ -1,20 +1,13 @@
 There are openings at several levels in the laboratory.
 
-### Postdoctoral
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam donec
-adipiscing.
-
 ### Graduate students
 
-Adipiscing enim eu turpis egestas pretium aenean pharetra. Pretium
-lectus quam id leo in vitae turpis massa sed. Sed viverra ipsum nunc aliquet
-bibendum enim facilisis.
+Apply directly to [University of Toronto Molecular Genetics](http://www.moleculargenetics.utoronto.ca/graduate-1). Visit [SickKids RTC](http://www.sickkids.ca/Research/StudentandFellowResources/RTC/About-Us/Index.html).
 
-### Research associates
+### Postdoctoral fellows
 
-Velit scelerisque in dictum non. In metus vulputate eu
-scelerisque. Ipsum dolor sit amet consectetur adipiscing elit duis. Nec ullamcorper
-sit amet risus nullam eget felis eget. Congue mauris rhoncus aenean vel elit
-scelerisque.
+Apply directly to P.I. Visit [SickKids RTC](http://www.sickkids.ca/Research/StudentandFellowResources/RTC/About-Us/Index.html).
+
+### Technician
+
+[SickKids Job Posting](https://career.sickkids.ca:8001/psc/CRPRD/CAREER/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=12635&PostingSeq=1).

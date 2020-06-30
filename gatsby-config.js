@@ -39,7 +39,7 @@ module.exports = {
     footerLinks: [
       { text: 'Google Scholar', link: 'https://scholar.google.ca/citations?user=8Qivd48AAAAJ&hl=en' },
       { text: 'Twitter', link: 'https://twitter.com/labyoun?lang=en' },
-      { text: 'LinkedIn', link: 'https://www.linkedin.com/in/ji-young-youn-a43759103' },
+      { text: 'LinkedIn', link: 'https://www.linkedin.com/in/ji-young-youn-60051b103' },
     ],
   },
   plugins: [

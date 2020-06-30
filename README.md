@@ -11,6 +11,19 @@
 * [GitHub account](https://github.com/)
 * code editor, e.g [VS Code](https://code.visualstudio.com/)
 
+### Project initialization
+
+1. Clone repository from command line. This will create a folder on your machine in the current directory with the project's code.
+```
+git clone https://github.com/knightjdr/youn-lab.git
+```
+
+2. Move into project directory and install dependencies.
+```
+cd youn-lab
+npm install
+```
+
 ## Development server
 
 `npm run develop` will start a local development server that you can access from `http://localhost:8000`. Any changes you make to project files will be automatically reflected in your browser.
